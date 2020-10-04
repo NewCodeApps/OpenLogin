@@ -7,8 +7,8 @@
   },
   "main": "Source/main.js",
   "scripts": {
-    "start": "node main.js",
-    "test": "node test.js"
+    "start": "node Source/main.js",
+    "test": "node Source/test.js"
   },
   "dependencies": {
     "ejs": "^2.5.6",
