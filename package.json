@@ -5,10 +5,10 @@
   "engines": {
     "node": "12.x"
   },
-  "main": "Source/main.js",
+  "main": "main.js",
   "scripts": {
-    "start": "node Source/main.js",
-    "test": "node Source/test.js"
+    "start": "node main.js",
+    "test": "node test.js"
   },
   "dependencies": {
     "ejs": "^2.5.6",
